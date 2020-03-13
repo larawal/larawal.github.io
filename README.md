@@ -17,5 +17,5 @@ larawal new myblog --from blog
 ## Create your first ecommerce
 
 ```bash
-larawal new myblog --from ecommerce
+larawal new myecommerce --from ecommerce
 ```
