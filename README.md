@@ -2,7 +2,7 @@
 
 ### Get started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Easy to install like your favourite laravel tool
 
 ```bash
 composer require global larawal/installer
