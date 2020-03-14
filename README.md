@@ -19,3 +19,10 @@ larawal new myblog --from blog
 ```bash
 larawal new myecommerce --from ecommerce
 ```
+
+## Upgrade Larawal
+
+```bash
+composer global remove larawal/installer
+composer global require larawal/installer --no-cache
+```
