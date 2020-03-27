@@ -8,6 +8,10 @@ Easy to install like your favourite laravel extension (globally)
 composer require global larawal/installer
 ```
 
+### Check alias system
+
+Make sure to place Composer's system-wide vendor bin directory in your $PATH so the larawal executable can be located by your system. This directory exists in different locations based on your operating system.
+
 Move into your favourite destination's path and run
 
 ### Create your first blog
