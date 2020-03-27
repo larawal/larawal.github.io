@@ -10,32 +10,32 @@ composer require global larawal/installer
 
 Move into your favourite destination's path and run
 
-## Create your first blog
+### Create your first blog
 
 ```bash
 larawal new myblog --from blog
 ```
 
-## Bricks list
+### Bricks list
 
 - blog
 - ecommerce
 - crm
 - landing-page
 
-## Adding a brick to a Larawal's project existing
+### Adding a brick to a Larawal's project existing
 
 ```bash
 larawal add myecommerce --from ecommerce
 ```
 
-## Fetching a brick to a Larawal's project existing
+### Fetching a brick to a Larawal's project existing
 
 ```bash
 larawal fetch myecommerce --from ecommerce
 ```
 
-## Before run
+### Before run
 
 ```bash
 composer update
